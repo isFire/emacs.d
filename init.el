@@ -170,6 +170,7 @@
 (require 'init-local nil t)
 (require 'init-org-roam nil t)
 (require 'init-neotree nil t)
+(require 'init-yasnippet nil t)
 
 (provide 'init)
 
