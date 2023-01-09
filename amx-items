@@ -1,0 +1,18 @@
+
+;; ----- amx-history -----
+(
+ eval-buffer
+ package-refresh-contents
+ package-install
+ cd
+ 5x5
+ amx
+ arp
+)
+
+;; ----- amx-data -----
+(
+ (eval-buffer . 31)
+ (package-install . 3)
+ (package-refresh-contents . 9)
+)
